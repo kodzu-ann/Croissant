@@ -1,6 +1,7 @@
 body {
-  background-color: #a2a8d3;
-  color: white;
+  background-color: #ffcab0;
+  color: #ff6f3c;
+  font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
   text-align: center;
@@ -8,4 +9,8 @@ h1 {
 a {
   text-decoration: none;
   color: white;
+}
+.img {
+  display: block;
+  max-width: 300px !important;
 }
